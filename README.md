@@ -1,7 +1,5 @@
 # RSAKeyPair
 Generating RSA Key Pair Programmatically using OpenSSL
-
-# RSA Key Pair
 This is a boilerplate to generate the RSA Key Pair programmatically using Open SSL
 
 [**Read full article**](https://sudhirmurthy.blogspot.com/2008/06/generating-rsa-key-pair.html)
